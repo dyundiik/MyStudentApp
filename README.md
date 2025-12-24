@@ -15,4 +15,4 @@
 ## Встановлення (запуск локально)
 1. Клонувати репозиторій:
    ```bash
-   git clone https://github.com/duyndiik/MyStudentApp.git
+   git clone https://github.com/dyundiik/MyStudentApp.git
